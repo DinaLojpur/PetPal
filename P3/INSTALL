@@ -1,0 +1,12 @@
+# This text file should explain how to deploy your website.
+
+# You should write detailed description on:
+
+# 1. All the packages you need to install
+# 2. How to configure various servers (e.g., Nginx, Apache, etc)
+npm install react-bootstrap bootstrap
+npm install bootstrap-icons
+npm install react-icons
+npm install --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome
